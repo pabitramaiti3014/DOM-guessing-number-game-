@@ -1,0 +1,3 @@
+Read Me........
+
+I have used only some basic concepts on DOM (Document Object model).
